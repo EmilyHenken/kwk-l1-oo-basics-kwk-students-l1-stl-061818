@@ -17,3 +17,5 @@ book4 = Book.new("Ransom Riggs", "Miss P's Home for Peculiar Children", "Horror"
 
 puts book4.author
 puts book3.title
+puts book1.genre
+puts book2.length
