@@ -16,3 +16,4 @@ book3 = Book.new("JK Rowling", "HP and Prisoner of Azkaban","Fiction", 435)
 book4 = Book.new("Ransom Riggs", "Miss P's Home for Peculiar Children", "Horror", 352)
 
 puts book4.author
+puts author
